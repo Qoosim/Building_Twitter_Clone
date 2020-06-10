@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+2:400,700&display=swap');
+
+ 
+.navbar-brand .title{
+  color: white
+}
+
+//round images
+
+.image {
+  border-radius: 50%;
+  img {
+    border-radius: 50%;
+  }
+}
+
+.notification:not(:last-child) {
+  margin-bottom: 0;
+}
